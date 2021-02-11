@@ -7,7 +7,7 @@ interface Sortable {
 }
 
 export class BubbleSorter {
-  constructor(public collection: NumbersCollection) {}
+  constructor(public collection: Sortable) {}
   //change
 
   sort(): void {
