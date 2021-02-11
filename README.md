@@ -1,3 +1,3 @@
 # Sorting-Algo-For-Everything
 
-New things
+Working on Typescript Skills, emphasis on Generics
